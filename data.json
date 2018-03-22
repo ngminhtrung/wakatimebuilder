@@ -1,0 +1,2117 @@
+{
+    "data": {
+      "best_day": {
+        "created_at": "2018-03-22T04:09:53Z", 
+        "date": "03/21/2018", 
+        "id": "5c631ccb-7270-4b8b-8c50-1240572f85c2", 
+        "modified_at": null, 
+        "total_seconds": 24130
+      }, 
+      "created_at": "2018-03-22T04:09:41Z", 
+      "daily_average": 18702, 
+      "days_including_holidays": 7, 
+      "days_minus_holidays": 3, 
+      "dependencies": [
+        {
+          "digital": "0:25", 
+          "hours": 0, 
+          "minutes": 25, 
+          "name": "react", 
+          "percent": 2.91, 
+          "text": "25 mins", 
+          "total_seconds": 1554
+        }, 
+        {
+          "digital": "0:25", 
+          "hours": 0, 
+          "minutes": 25, 
+          "name": "react-router-dom", 
+          "percent": 2.87, 
+          "text": "25 mins", 
+          "total_seconds": 1532
+        }, 
+        {
+          "digital": "0:17", 
+          "hours": 0, 
+          "minutes": 17, 
+          "name": "\"http://d3js.org/d3.v4.min.js\"", 
+          "percent": 1.92, 
+          "text": "17 mins", 
+          "total_seconds": 1022
+        }, 
+        {
+          "digital": "0:17", 
+          "hours": 0, 
+          "minutes": 17, 
+          "name": "\"http://techanjs.org/techan.min.js\"", 
+          "percent": 1.92, 
+          "text": "17 mins", 
+          "total_seconds": 1022
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "login", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "logout", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "posts_show", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "posts_edit", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "posts_index", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "posts_new", 
+          "percent": 1.47, 
+          "text": "13 mins", 
+          "total_seconds": 782
+        }, 
+        {
+          "digital": "0:12", 
+          "hours": 0, 
+          "minutes": 12, 
+          "name": "register", 
+          "percent": 1.41, 
+          "text": "12 mins", 
+          "total_seconds": 752
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "\"http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"", 
+          "percent": 1.35, 
+          "text": "11 mins", 
+          "total_seconds": 719
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "chai", 
+          "percent": 1.29, 
+          "text": "11 mins", 
+          "total_seconds": 690
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "babel-loader", 
+          "percent": 1.29, 
+          "text": "11 mins", 
+          "total_seconds": 690
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "babel-core", 
+          "percent": 1.29, 
+          "text": "11 mins", 
+          "total_seconds": 690
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "babel-preset-es2015", 
+          "percent": 1.29, 
+          "text": "11 mins", 
+          "total_seconds": 690
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "react-redux", 
+          "percent": 1.29, 
+          "text": "11 mins", 
+          "total_seconds": 689
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "axios", 
+          "percent": 1.05, 
+          "text": "9 mins", 
+          "total_seconds": 559
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "lodash", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "babel-preset-stage-2", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "chai-http", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "@feathersjs/errors", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "babel-register", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "body-parser", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "babel-cli", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:09", 
+          "hours": 0, 
+          "minutes": 9, 
+          "name": "bcrypt", 
+          "percent": 1.01, 
+          "text": "9 mins", 
+          "total_seconds": 540
+        }, 
+        {
+          "digital": "0:08", 
+          "hours": 0, 
+          "minutes": 8, 
+          "name": "npm", 
+          "percent": 1.01, 
+          "text": "8 mins", 
+          "total_seconds": 538
+        }, 
+        {
+          "digital": "0:08", 
+          "hours": 0, 
+          "minutes": 8, 
+          "name": "mocha", 
+          "percent": 1.01, 
+          "text": "8 mins", 
+          "total_seconds": 538
+        }, 
+        {
+          "digital": "0:08", 
+          "hours": 0, 
+          "minutes": 8, 
+          "name": "\"d3.v2.js\"", 
+          "percent": 0.96, 
+          "text": "8 mins", 
+          "total_seconds": 510
+        }, 
+        {
+          "digital": "0:08", 
+          "hours": 0, 
+          "minutes": 8, 
+          "name": "\"https://d3js.org/d3-time.v1.min.js\"", 
+          "percent": 0.95, 
+          "text": "8 mins", 
+          "total_seconds": 506
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "mongoose", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "validator", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "jsonwebtoken", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "cookie-parser", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "passport-jwt", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "passport", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "install", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "morgan", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "nodemon", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "express", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "log4js", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "http-status", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "jsdoc", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "express-validation", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "docdash", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "debug", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "express-validator", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "serve-favicon", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "cors", 
+          "percent": 0.73, 
+          "text": "6 mins", 
+          "total_seconds": 388
+        }, 
+        {
+          "digital": "0:06", 
+          "hours": 0, 
+          "minutes": 6, 
+          "name": "actions", 
+          "percent": 0.71, 
+          "text": "6 mins", 
+          "total_seconds": 380
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "auth", 
+          "percent": 0.63, 
+          "text": "5 mins", 
+          "total_seconds": 337
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "redux", 
+          "percent": 0.6, 
+          "text": "5 mins", 
+          "total_seconds": 320
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "\"http://d3js.org/d3.v3.min.js\"", 
+          "percent": 0.59, 
+          "text": "5 mins", 
+          "total_seconds": 317
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "\"http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"", 
+          "percent": 0.59, 
+          "text": "5 mins", 
+          "total_seconds": 317
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "redux-promise", 
+          "percent": 0.58, 
+          "text": "5 mins", 
+          "total_seconds": 311
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "react-dom", 
+          "percent": 0.58, 
+          "text": "5 mins", 
+          "total_seconds": 311
+        }, 
+        {
+          "digital": "0:05", 
+          "hours": 0, 
+          "minutes": 5, 
+          "name": "redux-form", 
+          "percent": 0.56, 
+          "text": "5 mins", 
+          "total_seconds": 300
+        }, 
+        {
+          "digital": "0:03", 
+          "hours": 0, 
+          "minutes": 3, 
+          "name": "\"http://mbostock.github.com/d3/d3.js?1.25.0\"", 
+          "percent": 0.39, 
+          "text": "3 mins", 
+          "total_seconds": 209
+        }, 
+        {
+          "digital": "0:03", 
+          "hours": 0, 
+          "minutes": 3, 
+          "name": "\"http://mbostock.github.com/d3/d3.time.js?1.25.0\"", 
+          "percent": 0.39, 
+          "text": "3 mins", 
+          "total_seconds": 209
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "reducers", 
+          "percent": 0.3, 
+          "text": "2 mins", 
+          "total_seconds": 161
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "app", 
+          "percent": 0.3, 
+          "text": "2 mins", 
+          "total_seconds": 161
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "jwt-decode", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 157
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-async-to-generator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "binary-extensions", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-replace-supers", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-for-of", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "aws4", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-dynamic-import", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-block-scoping", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "basic-auth", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-unicode-regex", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-check-es2015-constants", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-call-delegate", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-exponentiation-operator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "caseless", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-decorators", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-builder-binary-assignment-operator-visitor", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-modules-umd", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-code-frame", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-hoist-variables", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "asn1", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-trailing-function-commas", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-block-scoped-functions", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "async", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "balanced-match", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "buffer-equal-constant-time", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "aproba", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-classes", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-runtime", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "ast-types", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/serve-static", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-async-generator-functions", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/mime", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "assertion-error", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "aws-sign2", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "ansi-regex", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-parameters", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-sticky-regex", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-object-rest-spread", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "atob", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "capture-stack-trace", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "buildmail", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-template-literals", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-regenerator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-strict-mode", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "brace-expansion", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-spread", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-async-generators", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-duplicate-keys", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/node", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/express", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-exponentiation-operator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-modules-commonjs", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-optimise-call-expression", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-function-name", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "big.js", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "abbrev", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-modules-amd", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "arr-flatten", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-destructuring", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "asynckit", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-types", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "boom", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-typeof-symbol", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "anymatch", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "are-we-there-yet", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "assert-plus", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-bindify-decorators", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-get-function-arity", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "async-each", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-computed-properties", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-regex", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bcrypt-pbkdf", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-shorthand-properties", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "addressparser", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "amqplib", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-object-rest-spread", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "assign-symbols", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-define-map", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bluebird", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "braces", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-traverse", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-explode-assignable-expression", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "base64url", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "arr-diff", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bytes", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "block-stream", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-function-name", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-polyfill", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-object-super", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bitsyntax", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helpers", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/events", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "ansi-styles", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-class-properties", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-remap-async-to-generator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "arr-union", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "browser-stdout", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-class-properties", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "camelcase", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "agent-base", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-helper-explode-class", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/express-serve-static-core", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "base", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "cache-base", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-messages", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "boxen", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babylon", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "@types/body-parser", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-modules-systemjs", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "ajv", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-template", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bl", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "buffer-more-ints", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-preset-stage-3", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-literals", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "bson", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "array-unique", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "accepts", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "array-flatten", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-decorators", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "ansi-align", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-generator", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-transform-es2015-arrow-functions", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-plugin-syntax-async-functions", 
+          "percent": 0.29, 
+          "text": "2 mins", 
+          "total_seconds": 152
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "jquery", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "webpack", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "react-addons-test-utils", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-preset-stage-1", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "react-router", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "webpack-dev-server", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "babel-preset-react", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "jsdom", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "chai-jquery", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 150
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 148
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "\"https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js\"", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 148
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "\"https://d3js.org/d3-dsv.v1.min.js\"", 
+          "percent": 0.28, 
+          "text": "2 mins", 
+          "total_seconds": 148
+        }, 
+        {
+          "digital": "0:02", 
+          "hours": 0, 
+          "minutes": 2, 
+          "name": "\"plotWordCloud.js\"", 
+          "percent": 0.27, 
+          "text": "2 mins", 
+          "total_seconds": 144
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "footer", 
+          "percent": 0.03, 
+          "text": "0 secs", 
+          "total_seconds": 18
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "header", 
+          "percent": 0.03, 
+          "text": "0 secs", 
+          "total_seconds": 18
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "main", 
+          "percent": 0.03, 
+          "text": "0 secs", 
+          "total_seconds": 18
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "\"script.js\"", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "\"https://unpkg.com/react-dom@15/dist/react-dom.js\"", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "\"https://unpkg.com/react@15/dist/react.js\"", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "reducer_comments", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "reducer_users", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "reducer_posts", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 9
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "\"/bundle.js\"", 
+          "percent": 0.01, 
+          "text": "0 secs", 
+          "total_seconds": 6
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "\"index.js\"", 
+          "percent": 0.01, 
+          "text": "0 secs", 
+          "total_seconds": 4
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "https://d3js.org/d3-time.v1.min.js\"", 
+          "percent": 0.01, 
+          "text": "0 secs", 
+          "total_seconds": 4
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "pagination", 
+          "percent": 0.0, 
+          "text": "0 secs", 
+          "total_seconds": 2
+        }
+      ], 
+      "editors": [
+        {
+          "digital": "15:54", 
+          "hours": 15, 
+          "minutes": 54, 
+          "name": "VS Code", 
+          "percent": 100.0, 
+          "text": "15 hrs 54 mins", 
+          "total_seconds": 57250
+        }
+      ], 
+      "end": "2018-03-21T16:59:59Z", 
+      "holidays": 4, 
+      "human_readable_daily_average": "5 hrs 11 mins", 
+      "human_readable_total": "15 hrs 35 mins", 
+      "id": "bfc21c0b-a0ca-4037-a040-27996dd489d8", 
+      "is_already_updating": false, 
+      "is_coding_activity_visible": false, 
+      "is_other_usage_visible": true, 
+      "is_stuck": false, 
+      "is_up_to_date": true, 
+      "languages": [
+        {
+          "digital": "12:54", 
+          "hours": 12, 
+          "minutes": 54, 
+          "name": "JavaScript", 
+          "percent": 81.15, 
+          "text": "12 hrs 54 mins", 
+          "total_seconds": 46461
+        }, 
+        {
+          "digital": "1:37", 
+          "hours": 1, 
+          "minutes": 37, 
+          "name": "Markdown", 
+          "percent": 10.26, 
+          "text": "1 hr 37 mins", 
+          "total_seconds": 5873
+        }, 
+        {
+          "digital": "0:37", 
+          "hours": 0, 
+          "minutes": 37, 
+          "name": "HTML", 
+          "percent": 3.88, 
+          "text": "37 mins", 
+          "total_seconds": 2224
+        }, 
+        {
+          "digital": "0:18", 
+          "hours": 0, 
+          "minutes": 18, 
+          "name": "CSV", 
+          "percent": 1.92, 
+          "text": "18 mins", 
+          "total_seconds": 1099
+        }, 
+        {
+          "digital": "0:14", 
+          "hours": 0, 
+          "minutes": 14, 
+          "name": "Other", 
+          "percent": 1.56, 
+          "text": "14 mins", 
+          "total_seconds": 893
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "JSON", 
+          "percent": 1.21, 
+          "text": "11 mins", 
+          "total_seconds": 690
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "Text", 
+          "percent": 0.02, 
+          "text": "0 secs", 
+          "total_seconds": 10
+        }
+      ], 
+      "modified_at": "2018-03-22T04:09:53Z", 
+      "operating_systems": [
+        {
+          "digital": "15:54", 
+          "hours": 15, 
+          "minutes": 54, 
+          "name": "Linux", 
+          "percent": 100.0, 
+          "text": "15 hrs 54 mins", 
+          "total_seconds": 57250
+        }
+      ], 
+      "project": null, 
+      "projects": [
+        {
+          "digital": "12:16", 
+          "hours": 12, 
+          "minutes": 16, 
+          "name": "rainbow", 
+          "percent": 77.18, 
+          "text": "12 hrs 16 mins", 
+          "total_seconds": 44187
+        }, 
+        {
+          "digital": "1:16", 
+          "hours": 1, 
+          "minutes": 16, 
+          "name": "reactjs.org", 
+          "percent": 8.02, 
+          "text": "1 hr 16 mins", 
+          "total_seconds": 4590
+        }, 
+        {
+          "digital": "0:42", 
+          "hours": 0, 
+          "minutes": 42, 
+          "name": "fcchn-blog-frontend", 
+          "percent": 4.43, 
+          "text": "42 mins", 
+          "total_seconds": 2535
+        }, 
+        {
+          "digital": "0:35", 
+          "hours": 0, 
+          "minutes": 35, 
+          "name": "Learning", 
+          "percent": 3.69, 
+          "text": "35 mins", 
+          "total_seconds": 2113
+        }, 
+        {
+          "digital": "0:25", 
+          "hours": 0, 
+          "minutes": 25, 
+          "name": "ngminhtrung.github.io", 
+          "percent": 2.68, 
+          "text": "25 mins", 
+          "total_seconds": 1534
+        }, 
+        {
+          "digital": "0:13", 
+          "hours": 0, 
+          "minutes": 13, 
+          "name": "learn-react-udemy", 
+          "percent": 1.41, 
+          "text": "13 mins", 
+          "total_seconds": 807
+        }, 
+        {
+          "digital": "0:12", 
+          "hours": 0, 
+          "minutes": 12, 
+          "name": "GitHub", 
+          "percent": 1.32, 
+          "text": "12 mins", 
+          "total_seconds": 757
+        }, 
+        {
+          "digital": "0:11", 
+          "hours": 0, 
+          "minutes": 11, 
+          "name": "fcchn-blog-backend", 
+          "percent": 1.2, 
+          "text": "11 mins", 
+          "total_seconds": 689
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "Unknown Project", 
+          "percent": 0.06, 
+          "text": "0 secs", 
+          "total_seconds": 35
+        }, 
+        {
+          "digital": "0:00", 
+          "hours": 0, 
+          "minutes": 0, 
+          "name": "app-04-blog-post", 
+          "percent": 0.01, 
+          "text": "0 secs", 
+          "total_seconds": 3
+        }
+      ], 
+      "range": "last_7_days", 
+      "start": "2018-03-14T17:00:00Z", 
+      "status": "ok", 
+      "timeout": 15, 
+      "timezone": "Asia/Saigon", 
+      "total_seconds": 56107, 
+      "user_id": "5ff87af5-b1eb-49d0-a308-754985dca5d5", 
+      "username": null, 
+      "writes_only": false
+    }
+  }
+  
