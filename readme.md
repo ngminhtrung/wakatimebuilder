@@ -4,6 +4,13 @@
 
 - Wakatime là công cụ tích hợp vào editor, ghi nhận thời gian mà người dùng sử dụng editor đó để làm việc trên các dự án và ngôn ngữ lập trình, cuối cùng tổng hợp lại theo tuần, tháng, năm để người dùng hình dung được tổng thể quá trình làm việc của mình. 
 - Xem về Wakatime tại đây: [https://Wakatime.com](https://Wakatime.com)
+- Ảnh minh họa:
+
+![Email](./images/image001.png)
+
+![Dashboard01](./images/image002.png)
+
+![Dashboard02](./images/image003.png)
 
 ## Tại sao lại có Wakatime Personal Builder
 
